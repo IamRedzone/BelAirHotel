@@ -201,8 +201,8 @@ p {
 }
 
 .btn-secondary {
-  border: 1px solid rgba(103, 76, 175, 0.5);
-  color: var(--lavender-500);
+  border: 1px solid rgba(172, 155, 219, 0.5);
+  color: var(--lavender-300);
   background-color: transparent;
   border-radius: 0.5rem;
   padding: 0.625rem 1.25rem;
@@ -212,7 +212,7 @@ p {
 
 .btn-secondary:hover {
   border-color: var(--lavender-600);
-  color: var(--lavender-400);
+  color: white;
   background-color: rgba(103, 76, 175, 0.1);
 }
 
